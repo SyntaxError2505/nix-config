@@ -80,6 +80,7 @@
     gh
     lazygit
     emacs
+    extremetuxracer
   ];
 
   programs.mtr.enable = true;
