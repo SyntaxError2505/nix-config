@@ -76,6 +76,8 @@
     nautilus
     hyprshot
     pavucontrol
+    gh
+    lazygit
   ];
 
   programs.mtr.enable = true;
