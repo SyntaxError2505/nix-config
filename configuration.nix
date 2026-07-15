@@ -22,6 +22,8 @@
 
   hardware.tuxedo-drivers.settings.charging-profile = "stationary";
 
+  programs.nix-ld.enable = true;
+
   # bluetooth
   hardware.bluetooth.enable = true;
   hardware.bluetooth.settings.general = {
