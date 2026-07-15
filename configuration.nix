@@ -78,6 +78,7 @@
     pavucontrol
     gh
     lazygit
+    emacs
   ];
 
   programs.mtr.enable = true;
