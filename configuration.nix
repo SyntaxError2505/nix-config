@@ -83,6 +83,7 @@
     lazygit
     emacs
     extremetuxracer
+    kdePackages.kdeconnect-kde
   ];
 
   programs.mtr.enable = true;
