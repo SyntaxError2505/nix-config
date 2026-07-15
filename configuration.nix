@@ -84,6 +84,7 @@
     emacs
     extremetuxracer
     kdePackages.kdeconnect-kde
+    cargo
   ];
 
   programs.mtr.enable = true;
