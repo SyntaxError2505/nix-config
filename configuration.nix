@@ -67,7 +67,7 @@
     neovim
     kitty
     brave
-    wofi
+    hyprlauncher
     btop
     fastfetch
     obsidian
@@ -85,6 +85,7 @@
     extremetuxracer
     kdePackages.kdeconnect-kde
     cargo
+    unzip
   ];
 
   programs.mtr.enable = true;
