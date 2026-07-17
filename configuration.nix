@@ -86,6 +86,8 @@
     kdePackages.kdeconnect-kde
     cargo
     unzip
+    gnumake
+    zed
   ];
 
   programs.mtr.enable = true;
