@@ -87,7 +87,7 @@
     cargo
     unzip
     gnumake
-    zed
+    zed-editor
   ];
 
   programs.mtr.enable = true;
